@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Welcome! I’m passionate about software development and innovative technologies. Currently, I’m working on exciting projects spanning mobile apps, web applications, and smart systems. Always exploring new ways to bring technology to life. 🚀
+Welcome! I’m passionate about software development and innovative technologies. Currently, I’m working on exciting projects spanning mobile apps, web applications, and smart systems. Always exploring new ways to bring technology to life. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitha-kulal)
